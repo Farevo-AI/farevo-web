@@ -19,8 +19,8 @@ function Home() {
               </h1>
 
               <h1 className="heading-name">
-                I'M
-                <strong className="main-name"> REVANTH KUMAR JILAKARA</strong>
+                We are 
+                <strong className="main-name"> Team Farevo</strong>
               </h1>
             </Col>
 
@@ -30,7 +30,6 @@ function Home() {
                 autoPlay
                 loop
                 playsInline
-                className="img-fluid"
                 style={{
                   width: "100%",
                   height: "auto",
